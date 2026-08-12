@@ -1,0 +1,36 @@
+# ============================================
+# AGENT FILES — не завантажувати на GitHub
+# ============================================
+
+# Opencode конфігурація
+opencode.json
+.opencode/
+
+# Agent infrastructure
+.github/
+.clinerules/
+
+# VS Code
+.vscode/
+
+# Python віртуальні середовища
+.venv/
+.venv.*
+__pycache__/
+*.pyc
+
+# Agent memories & logs
+memories/
+
+# Temp скрипти
+temp/
+
+# ============================================
+# PROJECT FILES — завантажувати на GitHub
+# ============================================
+# input/       — вхідні зображення
+# output/      — результати OCR та перекладу
+# Text-origin/ — джерельні тексти
+# src/         — скрипти обробки
+# docs/        — документація
+# *.md (root)  — плани та інструкції
