@@ -1,0 +1,6 @@
+# Локальний .gitignore .github/ (дистрибутивні копії ядра Агента)
+__pycache__/
+*.pyc
+*.pyo
+*.log
+state/

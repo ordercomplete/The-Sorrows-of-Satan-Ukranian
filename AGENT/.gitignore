@@ -1,0 +1,7 @@
+# Локальний .gitignore ядра Агента (AGENT/)
+__pycache__/
+*.pyc
+*.pyo
+*.log
+state/
+trash/

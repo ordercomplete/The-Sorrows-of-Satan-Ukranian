@@ -1,0 +1,15 @@
+# Comfy-smart-lady — Повні інструкції агента
+
+Після привітання читай Канонічний файл: `${workspace}/AGENT/agents/Comfy-smart-lady.md`
+
+Цей файл — посилання. Всі зміни тільки в `AGENT/`.
+
+Анти-цикл хук автоматично запускається через `${workspace}/.continue/hooks/Loops.json`.
+
+## Як читати інструкції:
+
+1. **Прочитай основну інструкцію:** `read_file("${workspace}/AGENT/agents/Comfy-smart-lady.md")`
+2. **Прочитай навички:** `read_file("${workspace}/AGENT/skills/*/SKILL.md")`
+3. **Прочитай базу знань:** `read_file("${workspace}/AGENT/knowledge-base/README.md")`
+
+Використовуй ці інструкції для роботи.

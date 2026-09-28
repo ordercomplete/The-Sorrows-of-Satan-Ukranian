@@ -1,0 +1,10 @@
+# Cline не читає підпапки .clinerules — INIT-GATE не спрацьовує
+**Дата:** 2026-09-04 21:28. Команда виклику: "шаблон отримання поточного часу" (2026-09-04 21:28)
+**Контекст:** Хост-проєкт Under-word-app, агент Comfy-smart-lady v1.4.4. Після привітання «Привіт» агент не прочитав канонічні інструкції `AGENT/agents/Comfy-smart-lady.md` — директива «після привітання прочитай канонічний файл» лежала у stub-файлах, які Cline ніколи не завантажував у контекст.
+**Рішення/Патерн:**
+1. **Cline завантажує в контекст як правила ЛИШЕ .md/.txt файли, що лежать безпосередньо в корені `.clinerules/`** (джерело: docs.cline.bot/features/cline-rules — «Cline processes all .md and .txt files inside .clinerules/», всі приклади — плоскі файли; про рекурсивний обхід підпапок не згадується). Підпапки `agents/`, `skills/`, `knowledge-base/`, `hooks/` як правила не читаються. Крім того, кожне правило можна вимкнути тумблером у панелі Rules.
+2. **`.clinerules/hooks/Loops.json` (PreToolUse) Cline не виконує** — це конфіг-формат OpenCode/Continue. Ознака: файл лічильника `%TEMP%\vscode_agent_loop_count.json` не створюється. Тобто anti_loop-гейт `is_initialized()` у Cline мертвий.
+3. **Наслідок — «курка і яйце»:** команда «прочитай інструкції» лежала всередині інструкцій, які не завантажувались. INIT-GATE працює лише за умови автоматичного впорскування в системний контекст.
+4. **Виправлення (центр, v1.4.5, коміт be5dc54):** `.clinerules/agent-startup.md` додано до `STUB_TARGETS` у `update-manifest.py` → sync-agent встановлює його в корінь `.clinerules/` кожного хоста; у шаблон `AGENT/templates/stub_agents.md` додано жорсткі коментарі `<!-- 🔴 INIT-GATE ... TOOL_CALL_REQUIRED: read_files ${source_ref} -->` (раніше такі коментарі додавались лише вручну на хості 2026-09-04 12:11 і затирались при оновленні).
+5. **Перевірка після оновлення:** файл на хості існує в корені `.clinerules/`, статус sync v1.4.5 OK 205 / Modified 0 / Missing 0.
+**Джерело:** https://docs.cline.bot/features/cline-rules (офіційна документація Cline Rules, 2026-09-04)

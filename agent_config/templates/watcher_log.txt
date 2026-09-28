@@ -1,0 +1,94 @@
+[2026-08-26 15:34:33] ============================================================
+[2026-08-26 15:34:33] AGENT INSTRUCTION WATCHER STARTED
+[2026-08-26 15:34:33] Source file: D:\GEN\Comfy-smart-lady-agent\AGENT\agents\Comfy-smart-lady.md
+[2026-08-26 15:34:33] Backup dir:  D:\GEN\Comfy-smart-lady-agent\templates
+[2026-08-26 15:34:33] ============================================================
+[2026-08-26 15:34:33] COPY -> D:\GEN\Comfy-smart-lady-agent\templates\Comfy-smart-lady_2026-08-26_15-34-33.md
+[2026-08-26 15:34:33] INITIAL BACKUP CREATED: D:\GEN\Comfy-smart-lady-agent\templates\Comfy-smart-lady_2026-08-26_15-34-33.md
+[2026-08-26 15:34:33] Initial file hash: 91e226fa96871221150789a7eae8606d
+[2026-08-26 15:36:32] ============================================================
+[2026-08-26 15:36:32] AGENT INSTRUCTION WATCHER STARTED
+[2026-08-26 15:36:32] Source file: D:\GEN\Comfy-smart-lady-agent\AGENT\agents\Comfy-smart-lady.md
+[2026-08-26 15:36:32] Backup dir:  D:\GEN\Comfy-smart-lady-agent\templates
+[2026-08-26 15:36:32] ============================================================
+[2026-08-26 15:36:32] COPY -> D:\GEN\Comfy-smart-lady-agent\templates\Comfy-smart-lady_2026-08-26_15-36-32.md
+[2026-08-26 15:36:32] INITIAL BACKUP CREATED: D:\GEN\Comfy-smart-lady-agent\templates\Comfy-smart-lady_2026-08-26_15-36-32.md
+[2026-08-26 15:36:32] Initial file hash: 91e226fa96871221150789a7eae8606d
+[2026-08-28 12:43:58] ============================================================
+[2026-08-28 12:43:58] AGENT INSTRUCTION WATCHER STARTED
+[2026-08-28 12:43:58] Source file: D:\GEN\Comfy-smart-lady-agent\AGENT\agents\Comfy-smart-lady.md
+[2026-08-28 12:43:58] Backup dir:  D:\GEN\Comfy-smart-lady-agent\templates
+[2026-08-28 12:43:58] ============================================================
+[2026-08-28 12:43:58] COPY -> D:\GEN\Comfy-smart-lady-agent\templates\Comfy-smart-lady_2026-08-28_12-43-58.md
+[2026-08-28 12:43:58] INITIAL BACKUP CREATED: D:\GEN\Comfy-smart-lady-agent\templates\Comfy-smart-lady_2026-08-28_12-43-58.md
+[2026-08-28 12:43:58] Initial file hash: 54326915eec314464ef29d794fc25c96
+[2026-08-28 15:39:45] >>> INSTRUCTION FILE CHANGED!
+[2026-08-28 15:39:45] COPY -> D:\GEN\Comfy-smart-lady-agent\templates\Comfy-smart-lady_2026-08-28_15-39-45.md
+[2026-08-28 15:45:45] >>> INSTRUCTION FILE CHANGED!
+[2026-08-28 15:45:45] COPY -> D:\GEN\Comfy-smart-lady-agent\templates\Comfy-smart-lady_2026-08-28_15-45-45.md
+[2026-08-28 15:53:15] >>> INSTRUCTION FILE CHANGED!
+[2026-08-28 15:53:15] COPY -> D:\GEN\Comfy-smart-lady-agent\templates\Comfy-smart-lady_2026-08-28_15-53-15.md
+[2026-08-30 23:52:43] ============================================================
+[2026-08-30 23:52:43] AGENT INSTRUCTION WATCHER STARTED
+[2026-08-30 23:52:43] Source file: D:\GEN\Comfy-smart-lady-agent\AGENT\agents\Comfy-smart-lady.md
+[2026-08-30 23:52:43] Backup dir:  D:\GEN\Comfy-smart-lady-agent\agent_config\templates
+[2026-08-30 23:52:43] ============================================================
+[2026-08-30 23:52:43] COPY -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\Comfy-smart-lady_2026-08-30_23-52-43.md
+[2026-08-30 23:52:43] INITIAL BACKUP CREATED: D:\GEN\Comfy-smart-lady-agent\agent_config\templates\Comfy-smart-lady_2026-08-30_23-52-43.md
+[2026-08-30 23:52:43] Initial file hash: 13398fdfba872280bec1703526286d4e
+[2026-08-31 00:09:54] ============================================================
+[2026-08-31 00:09:54] AGENT INSTRUCTION WATCHER STARTED
+[2026-08-31 00:09:54] Source file: D:\GEN\Comfy-smart-lady-agent\AGENT\agents\Comfy-smart-lady.md
+[2026-08-31 00:09:54] Backup dir:  D:\GEN\Comfy-smart-lady-agent\agent_config\templates
+[2026-08-31 00:09:54] ============================================================
+[2026-08-31 00:09:54] COPY -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\Comfy-smart-lady_2026-08-31_00-09-54.md
+[2026-08-31 00:09:54] INITIAL BACKUP CREATED: D:\GEN\Comfy-smart-lady-agent\agent_config\templates\Comfy-smart-lady_2026-08-31_00-09-54.md
+[2026-08-31 00:09:54] Initial file hash: 13398fdfba872280bec1703526286d4e
+[2026-08-31 00:09:54] Initial AGENT/ scan: 71 files tracked
+[2026-08-31 00:11:53] >>> AGENT/ CHANGED!
+[2026-08-31 00:11:53] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-11-53.zip
+[2026-08-31 00:11:57] >>> AGENT/ CHANGED!
+[2026-08-31 00:11:57] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-11-57.zip
+[2026-08-31 00:14:18] >>> AGENT/ CHANGED!
+[2026-08-31 00:14:18] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-14-18.zip
+[2026-08-31 00:23:03] >>> AGENT/ CHANGED!
+[2026-08-31 00:23:03] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-23-03.zip
+[2026-08-31 00:23:23] >>> AGENT/ CHANGED!
+[2026-08-31 00:23:23] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-23-23.zip
+[2026-08-31 00:23:46] >>> AGENT/ CHANGED!
+[2026-08-31 00:23:46] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-23-46.zip
+[2026-08-31 00:23:48] >>> AGENT/ CHANGED!
+[2026-08-31 00:23:48] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-23-48.zip
+[2026-08-31 00:24:00] >>> AGENT/ CHANGED!
+[2026-08-31 00:24:00] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-24-00.zip
+[2026-08-31 00:24:12] >>> AGENT/ CHANGED!
+[2026-08-31 00:24:12] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-24-12.zip
+[2026-08-31 00:24:14] >>> AGENT/ CHANGED!
+[2026-08-31 00:24:14] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-24-14.zip
+[2026-08-31 00:24:34] ============================================================
+[2026-08-31 00:24:34] AGENT FILE WATCHER STARTED
+[2026-08-31 00:24:34] Watching:    D:\GEN\Comfy-smart-lady-agent\AGENT (без state/, trash/, session/, логів)
+[2026-08-31 00:24:34] Snapshots:   D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups
+[2026-08-31 00:24:34] ============================================================
+[2026-08-31 00:24:34] Initial AGENT/ scan: 71 files tracked
+[2026-08-31 00:25:38] >>> AGENT/ CHANGED!
+[2026-08-31 00:25:38] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-25-38.zip
+[2026-08-31 00:25:38] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-11-53.zip
+[2026-08-31 00:29:28] >>> AGENT/ CHANGED!
+[2026-08-31 00:29:28] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-29-28.zip
+[2026-08-31 00:29:28] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-11-57.zip
+[2026-08-31 00:36:51] >>> AGENT/ CHANGED!
+[2026-08-31 00:36:51] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-36-51.zip
+[2026-08-31 00:36:51] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-14-18.zip
+[2026-08-31 00:39:32] >>> AGENT/ CHANGED!
+[2026-08-31 00:39:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-39-32.zip
+[2026-08-31 00:39:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-23-03.zip
+[2026-08-31 00:49:48] >>> AGENT/ CHANGED!
+[2026-08-31 00:49:48] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\templates\agent_backups\AGENT_2026-08-31_00-49-48.zip
+[2026-08-31 00:49:48] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-23-23.zip
+[2026-08-31 19:10:34] ============================================================
+[2026-08-31 19:10:34] AGENT FILE WATCHER STARTED
+[2026-08-31 19:10:34] Watching:    D:\GEN\Music_Doc\AGENT (без state/, trash/, session/, логів)
+[2026-08-31 19:10:34] Snapshots:   D:\GEN\Music_Doc\agent_config\templates\agent_backups
+[2026-08-31 19:10:34] ============================================================
+[2026-08-31 19:10:35] Initial AGENT/ scan: 72 files tracked

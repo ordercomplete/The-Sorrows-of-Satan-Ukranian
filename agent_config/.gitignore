@@ -1,0 +1,8 @@
+﻿# Локальний .gitignore agent_config/ (конфігурація та скрипти Агента)
+__pycache__/
+*.pyc
+*.pyo
+*.log
+state/
+backup-agent/
+backup-chat/

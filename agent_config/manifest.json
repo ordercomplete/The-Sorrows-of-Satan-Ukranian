@@ -1,0 +1,333 @@
+{
+    "version": "1.4.9",
+    "agent_name": "Comfy-smart-lady",
+    "source_root": "AGENT",
+    "update_check": {
+        "repo_url": "https://raw.githubusercontent.com/ordercomplete/Comfy-smart-lady-agent/main/agent_config/VERSION",
+        "git_url": "https://github.com/ordercomplete/Comfy-smart-lady-agent.git",
+        "mode": "notify",
+        "interval_hours": 24,
+        "timeout_seconds": 5
+    },
+    "files": {
+        ".gitignore": {
+            "action": "copy_full",
+            "target_paths": [
+                "AGENT/.gitignore"
+            ]
+        },
+        "agents/Comfy-smart-lady.md": {
+            "action": "stub",
+            "target_paths": [
+                ".github/copilot-instructions.md"
+            ],
+            "source_ref": "${workspace}/AGENT/agents/Comfy-smart-lady.md"
+        },
+        "skills/auto-restart-stream/SKILL.md": {
+            "action": "stub",
+            "target_paths": [
+                ".github/skills/auto-restart-stream/SKILL.md",
+                ".clinerules/skills/auto-restart-stream/SKILL.md"
+            ],
+            "source_ref": "${workspace}/AGENT/skills/auto-restart-stream/SKILL.md"
+        },
+        "skills/context-management/SKILL.md": {
+            "action": "stub",
+            "target_paths": [
+                ".github/skills/context-management/SKILL.md",
+                ".clinerules/skills/context-management/SKILL.md"
+            ],
+            "source_ref": "${workspace}/AGENT/skills/context-management/SKILL.md"
+        },
+        "skills/errors/SKILL.md": {
+            "action": "stub",
+            "target_paths": [
+                ".github/skills/errors/SKILL.md",
+                ".clinerules/skills/errors/SKILL.md"
+            ],
+            "source_ref": "${workspace}/AGENT/skills/errors/SKILL.md"
+        },
+        "skills/information-search/SKILL.md": {
+            "action": "stub",
+            "target_paths": [
+                ".github/skills/information-search/SKILL.md",
+                ".clinerules/skills/information-search/SKILL.md"
+            ],
+            "source_ref": "${workspace}/AGENT/skills/information-search/SKILL.md"
+        },
+        "skills/localization-qa/SKILL.md": {
+            "action": "stub",
+            "target_paths": [
+                ".github/skills/localization-qa/SKILL.md",
+                ".clinerules/skills/localization-qa/SKILL.md"
+            ],
+            "source_ref": "${workspace}/AGENT/skills/localization-qa/SKILL.md"
+        },
+        "skills/safe-edit/SKILL.md": {
+            "action": "stub",
+            "target_paths": [
+                ".github/skills/safe-edit/SKILL.md",
+                ".clinerules/skills/safe-edit/SKILL.md"
+            ],
+            "source_ref": "${workspace}/AGENT/skills/safe-edit/SKILL.md"
+        },
+        "skills/session-history/SKILL.md": {
+            "action": "stub",
+            "target_paths": [
+                ".github/skills/session-history/SKILL.md",
+                ".clinerules/skills/session-history/SKILL.md"
+            ],
+            "source_ref": "${workspace}/AGENT/skills/session-history/SKILL.md"
+        },
+        "skills/small-steps/SKILL.md": {
+            "action": "stub",
+            "target_paths": [
+                ".github/skills/small-steps/SKILL.md",
+                ".clinerules/skills/small-steps/SKILL.md"
+            ],
+            "source_ref": "${workspace}/AGENT/skills/small-steps/SKILL.md"
+        },
+        "hooks/Loops.json": {
+            "action": "copy_full",
+            "target_paths": [
+                ".clinerules/hooks/Loops.json",
+                ".continue/hooks/Loops.json",
+                ".github/hooks/Loops.json"
+            ]
+        },
+        "plugin/anti-loop.js": {
+            "action": "copy_full",
+            "target_paths": [
+                ".opencode/plugins/anti-loop.js"
+            ]
+        },
+        "plugin/startup.js": {
+            "action": "copy_full",
+            "target_paths": [
+                ".opencode/plugins/startup.js"
+            ]
+        },
+        "knowledge-base/README.md": {
+            "action": "stub",
+            "target_paths": [
+                ".github/knowledge-base/README.md",
+                ".clinerules/knowledge-base/README.md"
+            ],
+            "source_ref": "${workspace}/AGENT/knowledge-base/README.md"
+        }
+    },
+    "stub_files": {
+        ".opencode/agents/Comfy-smart-lady.md": {
+            "template": "templates/stub_agents.md",
+            "source_ref": "${workspace}/AGENT/agents/Comfy-smart-lady.md"
+        },
+        ".clinerules/agent-startup.md": {
+            "template": "templates/stub_agents.md",
+            "source_ref": "${workspace}/AGENT/agents/Comfy-smart-lady.md"
+        },
+        ".clinerules/agents/Comfy-smart-lady.md": {
+            "template": "templates/stub_agents.md",
+            "source_ref": "${workspace}/AGENT/agents/Comfy-smart-lady.md"
+        },
+        ".github/agents/Comfy-smart-lady.md": {
+            "template": "templates/stub_agents.md",
+            "source_ref": "${workspace}/AGENT/agents/Comfy-smart-lady.md"
+        },
+        ".continue/agents/Comfy-smart-lady.md": {
+            "template": "templates/stub_agents.md",
+            "source_ref": "${workspace}/AGENT/agents/Comfy-smart-lady.md"
+        },
+        ".agent/instructions.md": {
+            "template": "templates/stub_agents.md",
+            "source_ref": "${workspace}/AGENT/agents/Comfy-smart-lady.md"
+        }
+    },
+    "root_files": {
+        "opencode.json": {
+            "action": "copy_full",
+            "target_paths": [
+                "opencode.json"
+            ]
+        },
+        ".github/.gitignore": {
+            "action": "copy_full",
+            "target_paths": [
+                ".github/.gitignore"
+            ]
+        },
+        ".clinerules/.gitignore": {
+            "action": "copy_full",
+            "target_paths": [
+                ".clinerules/.gitignore"
+            ]
+        },
+        ".continue/.gitignore": {
+            "action": "copy_full",
+            "target_paths": [
+                ".continue/.gitignore"
+            ]
+        },
+        ".markdownlint.json": {
+            "action": "copy_full",
+            "target_paths": [
+                ".markdownlint.json"
+            ]
+        },
+        ".markdownlintignore": {
+            "action": "copy_full",
+            "target_paths": [
+                ".markdownlintignore"
+            ]
+        },
+        "trash/.gitignore": {
+            "action": "copy_full",
+            "target_paths": [
+                "trash/.gitignore"
+            ]
+        },
+        "trash/deletion_log.md": {
+            "action": "copy_full",
+            "target_paths": [
+                "trash/deletion_log.md"
+            ]
+        },
+        "agent_config/.gitignore": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/.gitignore"
+            ]
+        },
+        "agent_config/CHANGELOG.md": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/CHANGELOG.md"
+            ]
+        },
+        "agent_config/FINAL_STATUS.md": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/FINAL_STATUS.md"
+            ]
+        },
+        "agent_config/Install_Comfy-smart-lady-agent.txt": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/Install_Comfy-smart-lady-agent.txt"
+            ]
+        },
+        "agent_config/README.md": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/README.md"
+            ]
+        },
+        "agent_config/SCRIPTS_CATALOG.md": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/SCRIPTS_CATALOG.md"
+            ]
+        },
+        "agent_config/VERSION": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/VERSION"
+            ]
+        },
+        "agent_config/manifest-notes.md": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/manifest-notes.md"
+            ]
+        },
+        "agent_config/manifest.json": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/manifest.json"
+            ]
+        },
+        "agent_config/reinstall_log.md": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/reinstall_log.md"
+            ]
+        },
+        "agent_config/watcher_log.txt": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/watcher_log.txt"
+            ]
+        },
+        "agent_config/backup-agent/AGENT_2026-09-28_12-33-10.zip": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/backup-agent/AGENT_2026-09-28_12-33-10.zip"
+            ]
+        },
+        "agent_config/backup-agent/AGENT_2026-09-28_12-34-10.zip": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/backup-agent/AGENT_2026-09-28_12-34-10.zip"
+            ]
+        },
+        "agent_config/backup-agent/AGENT_2026-09-28_12-35-10.zip": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/backup-agent/AGENT_2026-09-28_12-35-10.zip"
+            ]
+        },
+        "agent_config/scripts/_fix_indent.py": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/scripts/_fix_indent.py"
+            ]
+        },
+        "agent_config/scripts/cleanup_backup_agent.py": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/scripts/cleanup_backup_agent.py"
+            ]
+        },
+        "agent_config/scripts/delete_to_trash.py": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/scripts/delete_to_trash.py"
+            ]
+        },
+        "agent_config/scripts/install.ps1": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/scripts/install.ps1"
+            ]
+        },
+        "agent_config/scripts/install.sh": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/scripts/install.sh"
+            ]
+        },
+        "agent_config/scripts/sync-agent.py": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/scripts/sync-agent.py"
+            ]
+        },
+        "agent_config/scripts/test_install.ps1": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/scripts/test_install.ps1"
+            ]
+        },
+        "agent_config/scripts/update-manifest.py": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/scripts/update-manifest.py"
+            ]
+        },
+        "agent_config/templates/watcher_log.txt": {
+            "action": "copy_full",
+            "target_paths": [
+                "agent_config/templates/watcher_log.txt"
+            ]
+        }
+    }
+}

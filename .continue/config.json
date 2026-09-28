@@ -1,0 +1,15 @@
+{
+  "systemMessage": "read file `AGENT/agents/Comfy-smart-lady.md`",
+  "auto_approve": true,
+  "allowed_commands": [
+    "read_file",
+    "run_terminal_command",
+    "file_glob_search",
+    "grep_search",
+    "search_web"
+  ],
+  "allowed_shell_commands": [
+     ["Get-Date -Format \"yyyy-MM-dd HH:mm\""],
+     ["python -c \"from datetime import datetime; print(datetime.now().strftime('%Y-%m-%d %H:%M'))\""]
+  ]
+}

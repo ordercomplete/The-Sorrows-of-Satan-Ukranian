@@ -1,0 +1,367 @@
+[2026-08-31 17:27:28] ============================================================
+[2026-08-31 17:27:28] AGENT FILE WATCHER STARTED
+[2026-08-31 17:27:28] Watching:    D:\GEN\Comfy-smart-lady-agent\AGENT (без state/, trash/, session/, логів)
+[2026-08-31 17:27:28] Snapshots:   D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent
+[2026-08-31 17:27:28] ============================================================
+[2026-08-31 17:27:28] Initial AGENT/ scan: 74 files tracked
+[2026-08-31 17:27:48] >>> AGENT/ CHANGED!
+[2026-08-31 17:27:48] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-27-48.zip
+[2026-08-31 17:27:48] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-23-46.zip
+[2026-08-31 17:36:10] >>> AGENT/ CHANGED!
+[2026-08-31 17:36:10] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-36-10.zip
+[2026-08-31 17:36:10] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-23-48.zip
+[2026-08-31 17:36:28] >>> AGENT/ CHANGED!
+[2026-08-31 17:36:28] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-36-28.zip
+[2026-08-31 17:36:28] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-24-00.zip
+[2026-08-31 17:36:46] >>> AGENT/ CHANGED!
+[2026-08-31 17:36:46] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-36-46.zip
+[2026-08-31 17:36:46] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-24-12.zip
+[2026-08-31 17:38:57] >>> AGENT/ CHANGED!
+[2026-08-31 17:38:57] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-38-57.zip
+[2026-08-31 17:38:57] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-24-14.zip
+[2026-08-31 17:40:12] >>> AGENT/ CHANGED!
+[2026-08-31 17:40:12] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-40-12.zip
+[2026-08-31 17:40:12] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-25-38.zip
+[2026-08-31 17:40:48] >>> AGENT/ CHANGED!
+[2026-08-31 17:40:48] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-40-48.zip
+[2026-08-31 17:40:48] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-29-28.zip
+[2026-08-31 17:44:40] >>> AGENT/ CHANGED!
+[2026-08-31 17:44:40] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-44-40.zip
+[2026-08-31 17:44:40] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-36-51.zip
+[2026-08-31 17:48:19] >>> AGENT/ CHANGED!
+[2026-08-31 17:48:19] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-48-19.zip
+[2026-08-31 17:48:19] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-39-32.zip
+[2026-08-31 17:53:15] >>> AGENT/ CHANGED!
+[2026-08-31 17:53:15] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-53-15.zip
+[2026-08-31 17:53:15] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_00-49-48.zip
+[2026-08-31 17:53:25] >>> AGENT/ CHANGED!
+[2026-08-31 17:53:25] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-53-25.zip
+[2026-08-31 17:53:25] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-27-48.zip
+[2026-08-31 17:53:35] >>> AGENT/ CHANGED!
+[2026-08-31 17:53:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-53-35.zip
+[2026-08-31 17:53:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-36-10.zip
+[2026-08-31 17:54:08] >>> AGENT/ CHANGED!
+[2026-08-31 17:54:08] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-54-08.zip
+[2026-08-31 17:54:08] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-36-28.zip
+[2026-08-31 17:54:18] >>> AGENT/ CHANGED!
+[2026-08-31 17:54:18] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-54-18.zip
+[2026-08-31 17:54:18] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-36-46.zip
+[2026-08-31 17:54:30] >>> AGENT/ CHANGED!
+[2026-08-31 17:54:30] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-54-30.zip
+[2026-08-31 17:54:30] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-38-57.zip
+[2026-08-31 17:54:58] >>> AGENT/ CHANGED!
+[2026-08-31 17:54:58] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_17-54-58.zip
+[2026-08-31 17:54:58] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-40-12.zip
+[2026-08-31 18:05:37] >>> AGENT/ CHANGED!
+[2026-08-31 18:05:37] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-05-37.zip
+[2026-08-31 18:05:48] ============================================================
+[2026-08-31 18:05:48] AGENT FILE WATCHER STARTED
+[2026-08-31 18:05:48] Watching:    D:\GEN\Comfy-smart-lady-agent\AGENT (без state/, trash/, session/, логів)
+[2026-08-31 18:05:48] Snapshots:   D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent
+[2026-08-31 18:05:48] ============================================================
+[2026-08-31 18:05:48] Initial AGENT/ scan: 83 files tracked
+[2026-08-31 18:05:50] ============================================================
+[2026-08-31 18:05:50] AGENT FILE WATCHER STARTED
+[2026-08-31 18:05:50] Watching:    D:\GEN\Comfy-smart-lady-agent\AGENT (без state/, trash/, session/, логів)
+[2026-08-31 18:05:50] Snapshots:   D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent
+[2026-08-31 18:05:50] ============================================================
+[2026-08-31 18:05:50] Initial AGENT/ scan: 83 files tracked
+[2026-08-31 18:06:17] >>> AGENT/ CHANGED!
+[2026-08-31 18:06:17] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-06-17.zip
+[2026-08-31 18:06:17] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-44-40.zip
+[2026-08-31 18:06:21] >>> AGENT/ CHANGED!
+[2026-08-31 18:06:21] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-06-21.zip
+[2026-08-31 18:06:21] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-48-19.zip
+[2026-08-31 18:06:34] >>> AGENT/ CHANGED!
+[2026-08-31 18:06:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-06-34.zip
+[2026-08-31 18:06:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-53-15.zip
+[2026-08-31 18:06:48] >>> AGENT/ CHANGED!
+[2026-08-31 18:06:48] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-06-48.zip
+[2026-08-31 18:06:48] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-53-25.zip
+[2026-08-31 18:06:50] >>> AGENT/ CHANGED!
+[2026-08-31 18:06:50] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-06-50.zip
+[2026-08-31 18:06:50] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-53-35.zip
+[2026-08-31 18:22:40] >>> AGENT/ CHANGED!
+[2026-08-31 18:22:40] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-22-40.zip
+[2026-08-31 18:22:40] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-54-08.zip
+[2026-08-31 18:22:50] >>> AGENT/ CHANGED!
+[2026-08-31 18:22:50] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-22-50.zip
+[2026-08-31 18:22:50] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-54-18.zip
+[2026-08-31 18:22:51] >>> AGENT/ CHANGED!
+[2026-08-31 18:22:51] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-22-51.zip
+[2026-08-31 18:22:51] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-54-30.zip
+[2026-08-31 18:23:05] >>> AGENT/ CHANGED!
+[2026-08-31 18:23:05] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-23-05.zip
+[2026-08-31 18:23:05] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_17-54-58.zip
+[2026-08-31 18:23:13] >>> AGENT/ CHANGED!
+[2026-08-31 18:23:13] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-23-13.zip
+[2026-08-31 18:23:13] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-05-37.zip
+[2026-08-31 18:23:29] >>> AGENT/ CHANGED!
+[2026-08-31 18:23:29] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-23-29.zip
+[2026-08-31 18:23:29] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-06-17.zip
+[2026-08-31 18:23:50] >>> AGENT/ CHANGED!
+[2026-08-31 18:23:50] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-23-50.zip
+[2026-08-31 18:23:50] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-06-21.zip
+[2026-08-31 18:26:34] >>> AGENT/ CHANGED!
+[2026-08-31 18:26:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-26-34.zip
+[2026-08-31 18:26:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-06-34.zip
+[2026-08-31 18:26:51] >>> AGENT/ CHANGED!
+[2026-08-31 18:26:51] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-26-51.zip
+[2026-08-31 18:26:51] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-06-48.zip
+[2026-08-31 18:30:24] >>> AGENT/ CHANGED!
+[2026-08-31 18:30:24] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-30-24.zip
+[2026-08-31 18:30:28] >>> AGENT/ CHANGED!
+[2026-08-31 18:30:28] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-30-28.zip
+[2026-08-31 18:30:28] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-22-40.zip
+[2026-08-31 18:30:36] >>> AGENT/ CHANGED!
+[2026-08-31 18:30:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-30-36.zip
+[2026-08-31 18:30:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-22-50.zip
+[2026-08-31 18:30:46] >>> AGENT/ CHANGED!
+[2026-08-31 18:30:46] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-30-46.zip
+[2026-08-31 18:30:46] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-22-51.zip
+[2026-08-31 18:30:51] >>> AGENT/ CHANGED!
+[2026-08-31 18:30:51] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-30-51.zip
+[2026-08-31 18:30:51] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-23-05.zip
+[2026-08-31 18:30:54] >>> AGENT/ CHANGED!
+[2026-08-31 18:30:54] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-30-54.zip
+[2026-08-31 18:30:54] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-23-13.zip
+[2026-08-31 18:31:21] >>> AGENT/ CHANGED!
+[2026-08-31 18:31:21] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-31-21.zip
+[2026-08-31 18:31:21] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-23-29.zip
+[2026-08-31 18:31:51] >>> AGENT/ CHANGED!
+[2026-08-31 18:31:51] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-31-51.zip
+[2026-08-31 18:31:51] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-23-50.zip
+[2026-08-31 18:34:28] >>> AGENT/ CHANGED!
+[2026-08-31 18:34:28] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-34-28.zip
+[2026-08-31 18:34:28] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-26-34.zip
+[2026-08-31 18:34:32] >>> AGENT/ CHANGED!
+[2026-08-31 18:34:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_18-34-32.zip
+[2026-08-31 18:34:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-26-51.zip
+[2026-08-31 19:50:31] ============================================================
+[2026-08-31 19:50:31] AGENT FILE WATCHER STARTED
+[2026-08-31 19:50:31] Watching:    D:\GEN\Comfy-smart-lady-agent\AGENT (без state/, trash/, session/, логів)
+[2026-08-31 19:50:31] Snapshots:   D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent
+[2026-08-31 19:50:31] ============================================================
+[2026-08-31 19:50:31] Initial AGENT/ scan: 83 files tracked
+[2026-08-31 19:51:31] >>> AGENT/ CHANGED!
+[2026-08-31 19:51:31] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_19-51-31.zip
+[2026-08-31 19:51:31] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-30-24.zip
+[2026-08-31 19:52:31] >>> AGENT/ CHANGED!
+[2026-08-31 19:52:31] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_19-52-31.zip
+[2026-08-31 19:52:31] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-30-28.zip
+[2026-08-31 19:54:31] >>> AGENT/ CHANGED!
+[2026-08-31 19:54:31] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_19-54-31.zip
+[2026-08-31 19:54:31] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-30-36.zip
+[2026-08-31 19:55:31] >>> AGENT/ CHANGED!
+[2026-08-31 19:55:31] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_19-55-31.zip
+[2026-08-31 19:55:31] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-30-46.zip
+[2026-08-31 20:01:31] >>> AGENT/ CHANGED!
+[2026-08-31 20:01:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-01-31.zip
+[2026-08-31 20:01:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-30-51.zip
+[2026-08-31 20:04:32] >>> AGENT/ CHANGED!
+[2026-08-31 20:04:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-04-32.zip
+[2026-08-31 20:04:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-30-54.zip
+[2026-08-31 20:09:32] >>> AGENT/ CHANGED!
+[2026-08-31 20:09:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-09-32.zip
+[2026-08-31 20:09:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-31-21.zip
+[2026-08-31 20:11:32] >>> AGENT/ CHANGED!
+[2026-08-31 20:11:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-11-32.zip
+[2026-08-31 20:11:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-31-51.zip
+[2026-08-31 20:14:32] >>> AGENT/ CHANGED!
+[2026-08-31 20:14:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-14-32.zip
+[2026-08-31 20:14:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-34-28.zip
+[2026-08-31 20:15:32] >>> AGENT/ CHANGED!
+[2026-08-31 20:15:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-15-32.zip
+[2026-08-31 20:15:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_18-34-32.zip
+[2026-08-31 20:16:32] >>> AGENT/ CHANGED!
+[2026-08-31 20:16:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-16-32.zip
+[2026-08-31 20:16:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_19-51-31.zip
+[2026-08-31 20:27:32] >>> AGENT/ CHANGED!
+[2026-08-31 20:27:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-27-32.zip
+[2026-08-31 20:27:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_19-52-31.zip
+[2026-08-31 20:28:32] >>> AGENT/ CHANGED!
+[2026-08-31 20:28:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-28-32.zip
+[2026-08-31 20:28:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_19-54-31.zip
+[2026-08-31 20:29:32] >>> AGENT/ CHANGED!
+[2026-08-31 20:29:32] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-29-32.zip
+[2026-08-31 20:29:32] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_19-55-31.zip
+[2026-08-31 20:31:32] >>> AGENT/ CHANGED!
+[2026-08-31 20:31:33] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-31-32.zip
+[2026-08-31 20:31:33] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-01-31.zip
+[2026-08-31 20:35:33] >>> AGENT/ CHANGED!
+[2026-08-31 20:35:33] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-35-33.zip
+[2026-08-31 20:35:33] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-04-32.zip
+[2026-08-31 20:54:33] >>> AGENT/ CHANGED!
+[2026-08-31 20:54:33] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-54-33.zip
+[2026-08-31 20:54:33] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-09-32.zip
+[2026-08-31 20:56:33] >>> AGENT/ CHANGED!
+[2026-08-31 20:56:33] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-56-33.zip
+[2026-08-31 20:56:33] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-11-32.zip
+[2026-08-31 20:57:33] >>> AGENT/ CHANGED!
+[2026-08-31 20:57:33] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_20-57-33.zip
+[2026-08-31 20:57:33] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-14-32.zip
+[2026-08-31 21:05:33] >>> AGENT/ CHANGED!
+[2026-08-31 21:05:33] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-05-33.zip
+[2026-08-31 21:05:33] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-15-32.zip
+[2026-08-31 21:29:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:29:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-29-34.zip
+[2026-08-31 21:29:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-16-32.zip
+[2026-08-31 21:32:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:32:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-32-34.zip
+[2026-08-31 21:32:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-27-32.zip
+[2026-08-31 21:33:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:33:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-33-34.zip
+[2026-08-31 21:33:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-28-32.zip
+[2026-08-31 21:34:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:34:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-34-34.zip
+[2026-08-31 21:34:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-29-32.zip
+[2026-08-31 21:35:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:35:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-35-34.zip
+[2026-08-31 21:35:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-31-32.zip
+[2026-08-31 21:36:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:36:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-36-34.zip
+[2026-08-31 21:36:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-35-33.zip
+[2026-08-31 21:37:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:37:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-37-34.zip
+[2026-08-31 21:37:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-54-33.zip
+[2026-08-31 21:38:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:38:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-38-34.zip
+[2026-08-31 21:38:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-56-33.zip
+[2026-08-31 21:39:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:39:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-39-34.zip
+[2026-08-31 21:39:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_20-57-33.zip
+[2026-08-31 21:40:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:40:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-40-34.zip
+[2026-08-31 21:40:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-05-33.zip
+[2026-08-31 21:41:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:41:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-41-34.zip
+[2026-08-31 21:41:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-29-34.zip
+[2026-08-31 21:42:34] >>> AGENT/ CHANGED!
+[2026-08-31 21:42:34] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_21-42-34.zip
+[2026-08-31 21:42:34] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-32-34.zip
+[2026-08-31 22:19:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:19:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-19-36.zip
+[2026-08-31 22:19:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-33-34.zip
+[2026-08-31 22:20:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:20:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-20-36.zip
+[2026-08-31 22:20:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-34-34.zip
+[2026-08-31 22:21:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:21:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-21-36.zip
+[2026-08-31 22:21:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-35-34.zip
+[2026-08-31 22:22:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:22:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-22-36.zip
+[2026-08-31 22:22:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-36-34.zip
+[2026-08-31 22:23:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:23:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-23-36.zip
+[2026-08-31 22:23:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-37-34.zip
+[2026-08-31 22:35:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:35:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-35-36.zip
+[2026-08-31 22:35:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-38-34.zip
+[2026-08-31 22:36:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:36:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-36-36.zip
+[2026-08-31 22:36:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-39-34.zip
+[2026-08-31 22:37:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:37:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-37-36.zip
+[2026-08-31 22:37:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-40-34.zip
+[2026-08-31 22:39:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:39:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-39-36.zip
+[2026-08-31 22:39:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-41-34.zip
+[2026-08-31 22:41:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:41:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-41-36.zip
+[2026-08-31 22:41:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_21-42-34.zip
+[2026-08-31 22:42:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:42:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-42-36.zip
+[2026-08-31 22:42:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_22-19-36.zip
+[2026-08-31 22:44:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:44:36] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-44-36.zip
+[2026-08-31 22:44:36] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_22-20-36.zip
+[2026-08-31 22:45:36] >>> AGENT/ CHANGED!
+[2026-08-31 22:45:37] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-08-31_22-45-36.zip
+[2026-08-31 22:45:37] 🧹 Видалено найстаріший знімок AGENT/: AGENT_2026-08-31_22-21-36.zip
+[2026-09-02 12:56:46] ============================================================
+[2026-09-02 12:56:46] AGENT FILE WATCHER STARTED
+[2026-09-02 12:56:46] Watching:    D:\GEN\Comfy-smart-lady-agent\AGENT (без state/, trash/, session/, логів)
+[2026-09-02 12:56:46] Snapshots:   D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent
+[2026-09-02 12:56:46] ============================================================
+[2026-09-02 12:56:46] Initial AGENT/ scan: 107 files tracked
+[2026-09-02 12:57:46] >>> AGENT/ CHANGED!
+[2026-09-02 12:57:46] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-02_12-57-46.zip
+[2026-09-02 13:16:47] >>> AGENT/ CHANGED!
+[2026-09-02 13:16:47] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-02_13-16-47.zip
+[2026-09-02 13:18:47] >>> AGENT/ CHANGED!
+[2026-09-02 13:18:47] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-02_13-18-47.zip
+[2026-09-02 13:19:47] >>> AGENT/ CHANGED!
+[2026-09-02 13:19:47] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-02_13-19-47.zip
+[2026-09-02 13:34:47] >>> AGENT/ CHANGED!
+[2026-09-02 13:34:47] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-02_13-34-47.zip
+[2026-09-02 13:35:47] >>> AGENT/ CHANGED!
+[2026-09-02 13:35:47] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-02_13-35-47.zip
+[2026-09-02 16:02:50] >>> AGENT/ CHANGED!
+[2026-09-02 16:02:50] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-02_16-02-50.zip
+[2026-09-02 18:22:52] >>> AGENT/ CHANGED!
+[2026-09-02 18:22:52] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-02_18-22-52.zip
+[2026-09-02 19:38:01] ============================================================
+[2026-09-02 19:38:01] AGENT FILE WATCHER STARTED
+[2026-09-02 19:38:01] Watching:    D:\GEN\Music_Doc\AGENT (без state/, trash/, session/, логів)
+[2026-09-02 19:38:01] Snapshots:   D:\GEN\Music_Doc\agent_config\backup-agent
+[2026-09-02 19:38:01] ============================================================
+[2026-09-02 19:38:01] Initial AGENT/ scan: 109 files tracked
+[2026-09-02 19:39:01] >>> AGENT/ CHANGED!
+[2026-09-02 19:39:01] SNAPSHOT -> D:\GEN\Music_Doc\agent_config\backup-agent\AGENT_2026-09-02_19-39-01.zip
+[2026-09-02 19:39:01] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 10): AGENT_2026-08-31_22-44-36.zip
+[2026-09-02 19:41:01] >>> AGENT/ CHANGED!
+[2026-09-02 19:41:01] SNAPSHOT -> D:\GEN\Music_Doc\agent_config\backup-agent\AGENT_2026-09-02_19-41-01.zip
+[2026-09-02 19:41:01] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 10): AGENT_2026-08-31_22-45-36.zip
+[2026-09-02 20:32:38] ============================================================
+[2026-09-02 20:32:38] AGENT FILE WATCHER STARTED
+[2026-09-02 20:32:38] Watching:    D:\GEN\Music_Doc\AGENT (без state/, trash/, session/, логів)
+[2026-09-02 20:32:38] Snapshots:   D:\GEN\Music_Doc\agent_config\backup-agent
+[2026-09-02 20:32:38] ============================================================
+[2026-09-02 20:32:38] Initial AGENT/ scan: 109 files tracked
+[2026-09-02 20:33:38] >>> AGENT/ CHANGED!
+[2026-09-02 20:33:38] SNAPSHOT -> D:\GEN\Music_Doc\agent_config\backup-agent\AGENT_2026-09-02_20-33-38.zip
+[2026-09-02 20:33:38] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 10): AGENT_2026-09-02_12-57-46.zip
+[2026-09-04 19:02:50] ============================================================
+[2026-09-04 19:02:50] AGENT FILE WATCHER STARTED
+[2026-09-04 19:02:50] Watching:    D:\GEN\Comfy-smart-lady-agent\AGENT (без state/, trash/, session/, логів)
+[2026-09-04 19:02:50] Snapshots:   D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent
+[2026-09-04 19:02:50] ============================================================
+[2026-09-04 19:02:50] Initial AGENT/ scan: 110 files tracked
+[2026-09-04 19:08:51] ============================================================
+[2026-09-04 19:08:51] AGENT FILE WATCHER STARTED
+[2026-09-04 19:08:51] Watching:    D:\GEN\Comfy-smart-lady-agent\AGENT (без state/, trash/, session/, логів)
+[2026-09-04 19:08:51] Snapshots:   D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent
+[2026-09-04 19:08:51] ============================================================
+[2026-09-04 19:08:51] Initial AGENT/ scan: 110 files tracked
+[2026-09-04 19:09:51] >>> AGENT/ CHANGED!
+[2026-09-04 19:09:51] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-04_19-09-51.zip
+[2026-09-04 19:09:51] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 10): AGENT_2026-09-02_13-16-47.zip
+[2026-09-28 10:42:02] ============================================================
+[2026-09-28 10:42:02] AGENT FILE WATCHER STARTED
+[2026-09-28 10:42:02] Watching:    D:\GEN\Comfy-smart-lady-agent\AGENT (без state/, trash/, session/, логів)
+[2026-09-28 10:42:02] Snapshots:   D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent
+[2026-09-28 10:42:02] ============================================================
+[2026-09-28 10:42:02] Initial AGENT/ scan: 123 files tracked
+[2026-09-28 10:42:16] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-28_10-42-16.zip
+[2026-09-28 10:42:16] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 3): AGENT_2026-09-09_14-04-51.zip
+[2026-09-28 10:44:02] >>> AGENT/ CHANGED!
+[2026-09-28 10:44:02] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-28_10-44-02.zip
+[2026-09-28 10:44:02] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 3): AGENT_2026-09-09_14-24-51.zip
+[2026-09-28 10:45:02] >>> AGENT/ CHANGED!
+[2026-09-28 10:45:02] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-28_10-45-02.zip
+[2026-09-28 10:45:02] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 3): AGENT_2026-09-09_14-54-52.zip
+[2026-09-28 10:46:02] >>> AGENT/ CHANGED!
+[2026-09-28 10:46:02] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-28_10-46-02.zip
+[2026-09-28 10:46:02] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 3): AGENT_2026-09-28_10-42-16.zip
+[2026-09-28 10:56:03] >>> AGENT/ CHANGED!
+[2026-09-28 10:56:03] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-28_10-56-03.zip
+[2026-09-28 10:56:03] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 3): AGENT_2026-09-28_10-44-02.zip
+[2026-09-28 10:58:03] >>> AGENT/ CHANGED!
+[2026-09-28 10:58:03] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-28_10-58-03.zip
+[2026-09-28 10:58:03] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 3): AGENT_2026-09-28_10-45-02.zip
+[2026-09-28 11:16:04] >>> AGENT/ CHANGED!
+[2026-09-28 11:16:04] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-28_11-16-04.zip
+[2026-09-28 11:16:04] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 3): AGENT_2026-09-28_10-46-02.zip
+[2026-09-28 11:17:04] >>> AGENT/ CHANGED!
+[2026-09-28 11:17:04] SNAPSHOT -> D:\GEN\Comfy-smart-lady-agent\agent_config\backup-agent\AGENT_2026-09-28_11-17-04.zip
+[2026-09-28 11:17:04] 🧹 Ротація: видалено зайвий знімок AGENT/ (ліміт 3): AGENT_2026-09-28_10-56-03.zip

@@ -1,0 +1,9 @@
+# Локальний .gitignore .clinerules/ (дистрибутивні копії ядра Агента)
+__pycache__/
+*.pyc
+*.pyo
+*.log
+state/
+
+# Кеш інструкцій (створюється автоматично)
+instructions_cache.json

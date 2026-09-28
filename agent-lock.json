@@ -1,0 +1,1383 @@
+{
+  "version": "1.4.9",
+  "manifest_hash": "cc9e5bd4c4473d4b46654d1a3e2d258b",
+  "installed_at": "2026-09-28T13:27:33.713890",
+  "files": {
+    "AGENT/.gitignore": {
+      "hash": "c29428f32ce70d9c83d0b9c62ed476d5",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/.gitignore"
+      ],
+      "installed_at": "2026-09-28T13:27:33.798151"
+    },
+    ".github/copilot-instructions.md": {
+      "hash": "6156f018fe18d07262aebc8fd45a51a0",
+      "action": "stub",
+      "targets": [
+        ".github/copilot-instructions.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.716374"
+    },
+    ".github/skills/auto-restart-stream/SKILL.md": {
+      "hash": "fbddb62c9e3479502c879de34e1a184b",
+      "action": "stub",
+      "targets": [
+        ".github/skills/auto-restart-stream/SKILL.md",
+        ".clinerules/skills/auto-restart-stream/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.717401"
+    },
+    ".clinerules/skills/auto-restart-stream/SKILL.md": {
+      "hash": "fbddb62c9e3479502c879de34e1a184b",
+      "action": "stub",
+      "targets": [
+        ".github/skills/auto-restart-stream/SKILL.md",
+        ".clinerules/skills/auto-restart-stream/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.717732"
+    },
+    ".github/skills/context-management/SKILL.md": {
+      "hash": "76590d7b28ec12eab8bf308bf80e6b60",
+      "action": "stub",
+      "targets": [
+        ".github/skills/context-management/SKILL.md",
+        ".clinerules/skills/context-management/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.718636"
+    },
+    ".clinerules/skills/context-management/SKILL.md": {
+      "hash": "76590d7b28ec12eab8bf308bf80e6b60",
+      "action": "stub",
+      "targets": [
+        ".github/skills/context-management/SKILL.md",
+        ".clinerules/skills/context-management/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.718903"
+    },
+    ".github/skills/errors/SKILL.md": {
+      "hash": "21d9a274ea1fae92a5b9b7f58034a008",
+      "action": "stub",
+      "targets": [
+        ".github/skills/errors/SKILL.md",
+        ".clinerules/skills/errors/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.719638"
+    },
+    ".clinerules/skills/errors/SKILL.md": {
+      "hash": "21d9a274ea1fae92a5b9b7f58034a008",
+      "action": "stub",
+      "targets": [
+        ".github/skills/errors/SKILL.md",
+        ".clinerules/skills/errors/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.719915"
+    },
+    ".github/skills/information-search/SKILL.md": {
+      "hash": "c24ced20a2d293e7e10cb9004eb8c86a",
+      "action": "stub",
+      "targets": [
+        ".github/skills/information-search/SKILL.md",
+        ".clinerules/skills/information-search/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.720660"
+    },
+    ".clinerules/skills/information-search/SKILL.md": {
+      "hash": "c24ced20a2d293e7e10cb9004eb8c86a",
+      "action": "stub",
+      "targets": [
+        ".github/skills/information-search/SKILL.md",
+        ".clinerules/skills/information-search/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.720940"
+    },
+    ".github/skills/localization-qa/SKILL.md": {
+      "hash": "e3cb860bd57864930f7e46bdd777183d",
+      "action": "stub",
+      "targets": [
+        ".github/skills/localization-qa/SKILL.md",
+        ".clinerules/skills/localization-qa/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.721766"
+    },
+    ".clinerules/skills/localization-qa/SKILL.md": {
+      "hash": "e3cb860bd57864930f7e46bdd777183d",
+      "action": "stub",
+      "targets": [
+        ".github/skills/localization-qa/SKILL.md",
+        ".clinerules/skills/localization-qa/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.722035"
+    },
+    ".github/skills/safe-edit/SKILL.md": {
+      "hash": "6ca47c6d7acdf558a601133a1f8fb4b9",
+      "action": "stub",
+      "targets": [
+        ".github/skills/safe-edit/SKILL.md",
+        ".clinerules/skills/safe-edit/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.722755"
+    },
+    ".clinerules/skills/safe-edit/SKILL.md": {
+      "hash": "6ca47c6d7acdf558a601133a1f8fb4b9",
+      "action": "stub",
+      "targets": [
+        ".github/skills/safe-edit/SKILL.md",
+        ".clinerules/skills/safe-edit/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.723016"
+    },
+    ".github/skills/session-history/SKILL.md": {
+      "hash": "196c4cc5bd9cdec3b9d06c07b481cef8",
+      "action": "stub",
+      "targets": [
+        ".github/skills/session-history/SKILL.md",
+        ".clinerules/skills/session-history/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.723735"
+    },
+    ".clinerules/skills/session-history/SKILL.md": {
+      "hash": "196c4cc5bd9cdec3b9d06c07b481cef8",
+      "action": "stub",
+      "targets": [
+        ".github/skills/session-history/SKILL.md",
+        ".clinerules/skills/session-history/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.724076"
+    },
+    ".github/skills/small-steps/SKILL.md": {
+      "hash": "f1405397b6bab8953eba3075209f801e",
+      "action": "stub",
+      "targets": [
+        ".github/skills/small-steps/SKILL.md",
+        ".clinerules/skills/small-steps/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.724787"
+    },
+    ".clinerules/skills/small-steps/SKILL.md": {
+      "hash": "f1405397b6bab8953eba3075209f801e",
+      "action": "stub",
+      "targets": [
+        ".github/skills/small-steps/SKILL.md",
+        ".clinerules/skills/small-steps/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.725056"
+    },
+    ".clinerules/hooks/Loops.json": {
+      "hash": "e56865ab392bfaee190ea12f0b0390ad",
+      "action": "copy_full",
+      "targets": [
+        ".clinerules/hooks/Loops.json",
+        ".continue/hooks/Loops.json",
+        ".github/hooks/Loops.json"
+      ],
+      "installed_at": "2026-09-28T13:27:33.725723"
+    },
+    ".continue/hooks/Loops.json": {
+      "hash": "e56865ab392bfaee190ea12f0b0390ad",
+      "action": "copy_full",
+      "targets": [
+        ".clinerules/hooks/Loops.json",
+        ".continue/hooks/Loops.json",
+        ".github/hooks/Loops.json"
+      ],
+      "installed_at": "2026-09-28T13:27:33.726478"
+    },
+    ".github/hooks/Loops.json": {
+      "hash": "e56865ab392bfaee190ea12f0b0390ad",
+      "action": "copy_full",
+      "targets": [
+        ".clinerules/hooks/Loops.json",
+        ".continue/hooks/Loops.json",
+        ".github/hooks/Loops.json"
+      ],
+      "installed_at": "2026-09-28T13:27:33.727135"
+    },
+    ".opencode/plugins/anti-loop.js": {
+      "hash": "85632d74e03802b2cd15c53d5495b07a",
+      "action": "copy_full",
+      "targets": [
+        ".opencode/plugins/anti-loop.js"
+      ],
+      "installed_at": "2026-09-28T13:27:33.727835"
+    },
+    ".opencode/plugins/startup.js": {
+      "hash": "ad83a093734072f1f28a6fbfea8fc536",
+      "action": "copy_full",
+      "targets": [
+        ".opencode/plugins/startup.js"
+      ],
+      "installed_at": "2026-09-28T13:27:33.739754"
+    },
+    ".github/knowledge-base/README.md": {
+      "hash": "64a939785783430237bb34d1169b2e2a",
+      "action": "stub",
+      "targets": [
+        ".github/knowledge-base/README.md",
+        ".clinerules/knowledge-base/README.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.740814"
+    },
+    ".clinerules/knowledge-base/README.md": {
+      "hash": "64a939785783430237bb34d1169b2e2a",
+      "action": "stub",
+      "targets": [
+        ".github/knowledge-base/README.md",
+        ".clinerules/knowledge-base/README.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.741550"
+    },
+    "opencode.json": {
+      "hash": "fcea973ca1ac6833eefc99b5968b0c66",
+      "action": "copy_full",
+      "targets": [
+        "opencode.json"
+      ],
+      "installed_at": "2026-09-28T13:27:33.742162"
+    },
+    ".github/.gitignore": {
+      "hash": "b31cd327168c4e28b9d77593046f8ca0",
+      "action": "copy_full",
+      "targets": [
+        ".github/.gitignore"
+      ],
+      "installed_at": "2026-09-28T13:27:33.742900"
+    },
+    ".clinerules/.gitignore": {
+      "hash": "32f692e4682682939e46e3d4d8c5be90",
+      "action": "copy_full",
+      "targets": [
+        ".clinerules/.gitignore"
+      ],
+      "installed_at": "2026-09-28T13:27:33.743479"
+    },
+    ".continue/.gitignore": {
+      "hash": "d849e3d1dd8279186a2abd0da0bddf7a",
+      "action": "copy_full",
+      "targets": [
+        ".continue/.gitignore"
+      ],
+      "installed_at": "2026-09-28T13:27:33.744042"
+    },
+    ".markdownlint.json": {
+      "hash": "354f60076589f40eec7b22c8ed177af7",
+      "action": "copy_full",
+      "targets": [
+        ".markdownlint.json"
+      ],
+      "installed_at": "2026-09-28T13:27:33.744672"
+    },
+    ".markdownlintignore": {
+      "hash": "365613c7d89977c947ba481d0ebd0bb1",
+      "action": "copy_full",
+      "targets": [
+        ".markdownlintignore"
+      ],
+      "installed_at": "2026-09-28T13:27:33.745264"
+    },
+    "trash/.gitignore": {
+      "hash": "eada10ce6c57d3d62388dd9225f48781",
+      "action": "copy_full",
+      "targets": [
+        "trash/.gitignore"
+      ],
+      "installed_at": "2026-09-28T13:27:33.745862"
+    },
+    "trash/deletion_log.md": {
+      "hash": "66440098a13d8bbf0f3cab40c79ee1bf",
+      "action": "copy_full",
+      "targets": [
+        "trash/deletion_log.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.746501"
+    },
+    "agent_config/.gitignore": {
+      "hash": "bae3df0ba7fd540f7186890d12325465",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/.gitignore"
+      ],
+      "installed_at": "2026-09-28T13:27:33.747089"
+    },
+    "agent_config/CHANGELOG.md": {
+      "hash": "21ca59afd43afb93b2a4cad977c3c7f0",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/CHANGELOG.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.752246"
+    },
+    "agent_config/FINAL_STATUS.md": {
+      "hash": "1c7537d849207ca7c5a41eb43f524c67",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/FINAL_STATUS.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.753260"
+    },
+    "agent_config/Install_Comfy-smart-lady-agent.txt": {
+      "hash": "ffc317441856930ac7ad055e9d9eeffc",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/Install_Comfy-smart-lady-agent.txt"
+      ],
+      "installed_at": "2026-09-28T13:27:33.757490"
+    },
+    "agent_config/README.md": {
+      "hash": "7400668fe5d4592c513a141186eee1a6",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/README.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.761267"
+    },
+    "agent_config/SCRIPTS_CATALOG.md": {
+      "hash": "0365eda3b92cc13518ed16c3a62ac8a3",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/SCRIPTS_CATALOG.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.765484"
+    },
+    "agent_config/VERSION": {
+      "hash": "fd608f3cf9009e4cb89b731d0090d89f",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/VERSION"
+      ],
+      "installed_at": "2026-09-28T13:27:33.766332"
+    },
+    "agent_config/manifest-notes.md": {
+      "hash": "b5ab686aa2e42a52d4c7a2c238f36055",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/manifest-notes.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.770103"
+    },
+    "agent_config/manifest.json": {
+      "hash": "cc9e5bd4c4473d4b46654d1a3e2d258b",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/manifest.json"
+      ],
+      "installed_at": "2026-09-28T13:27:33.775582"
+    },
+    "agent_config/reinstall_log.md": {
+      "hash": "025d50d75fc1b87876a45a7ca6bfdf5f",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/reinstall_log.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.776319"
+    },
+    "agent_config/watcher_log.txt": {
+      "hash": "b9a311d482619505f4a569e768637a4b",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/watcher_log.txt"
+      ],
+      "installed_at": "2026-09-28T13:27:33.779718"
+    },
+    "agent_config/scripts/_fix_indent.py": {
+      "hash": "03cbb3bc00ca30b396b016416715ea06",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/scripts/_fix_indent.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.780994"
+    },
+    "agent_config/scripts/cleanup_backup_agent.py": {
+      "hash": "dc26662402669e0750c1dec2f5acf8bf",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/scripts/cleanup_backup_agent.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.781614"
+    },
+    "agent_config/scripts/delete_to_trash.py": {
+      "hash": "78d75d75b43f71adcebf9a39f788cfe4",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/scripts/delete_to_trash.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.785060"
+    },
+    "agent_config/scripts/install.ps1": {
+      "hash": "0d39652b15d9ce2b84098cb8ddad89e5",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/scripts/install.ps1"
+      ],
+      "installed_at": "2026-09-28T13:27:33.785897"
+    },
+    "agent_config/scripts/install.sh": {
+      "hash": "606fddc9b3e9e86bd5720c152485ec2e",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/scripts/install.sh"
+      ],
+      "installed_at": "2026-09-28T13:27:33.786569"
+    },
+    "agent_config/scripts/sync-agent.py": {
+      "hash": "c1c98672900ab489dc56b2ee91caf5be",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/scripts/sync-agent.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.790499"
+    },
+    "agent_config/scripts/test_install.ps1": {
+      "hash": "86220a0cf7d0bfd9172686e89ab3bfc4",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/scripts/test_install.ps1"
+      ],
+      "installed_at": "2026-09-28T13:27:33.791117"
+    },
+    "agent_config/scripts/update-manifest.py": {
+      "hash": "75d66a5e20ad9a1eab8eab59f0dc2cdd",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/scripts/update-manifest.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.794121"
+    },
+    "agent_config/templates/watcher_log.txt": {
+      "hash": "6482aaedecc988c5d7696ad854ff1c23",
+      "action": "copy_full",
+      "targets": [
+        "agent_config/templates/watcher_log.txt"
+      ],
+      "installed_at": "2026-09-28T13:27:33.797932"
+    },
+    "AGENT/agent-catalog.html": {
+      "hash": "dba7d5929edf97bdd3ff095f345f8948",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/agent-catalog.html"
+      ],
+      "installed_at": "2026-09-28T13:27:33.838681"
+    },
+    "AGENT/open-agent-catalog.bat": {
+      "hash": "cb1fb5032d248803a6d69b58a1cda8c6",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/open-agent-catalog.bat"
+      ],
+      "installed_at": "2026-09-28T13:27:33.839567"
+    },
+    "AGENT/release-readiness-plan.md": {
+      "hash": "d385527df9f951453a71f4e0f2ed770b",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/release-readiness-plan.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.856120"
+    },
+    "AGENT/agents/Comfy-smart-lady.md": {
+      "hash": "2f6505c6696262fa421423c8aa194bad",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/agents/Comfy-smart-lady.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.860706"
+    },
+    "AGENT/chats/README.md": {
+      "hash": "0c9b519d85aabf447524b7a5e751a6cc",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/chats/README.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.861348"
+    },
+    "AGENT/hooks/anti_loop.py": {
+      "hash": "5c296440c9a6232c7c50ace3d09c4361",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/hooks/anti_loop.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.861857"
+    },
+    "AGENT/hooks/Loops.json": {
+      "hash": "e56865ab392bfaee190ea12f0b0390ad",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/hooks/Loops.json"
+      ],
+      "installed_at": "2026-09-28T13:27:33.862322"
+    },
+    "AGENT/hooks/str.translate.json": {
+      "hash": "56c686824ac6ddab13b38eb00b6c382c",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/hooks/str.translate.json"
+      ],
+      "installed_at": "2026-09-28T13:27:33.862770"
+    },
+    "AGENT/hooks/str.translate.py": {
+      "hash": "3f35cc924d98a6550ad8f51c799708d5",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/hooks/str.translate.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.865836"
+    },
+    "AGENT/hooks/vercel_error_tracker.json": {
+      "hash": "5f0d89613a310f54e36d5fbe07f1c629",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/hooks/vercel_error_tracker.json"
+      ],
+      "installed_at": "2026-09-28T13:27:33.866413"
+    },
+    "AGENT/hooks/vercel_error_tracker.py": {
+      "hash": "8464204977c2f87d32f06021eb94f8c0",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/hooks/vercel_error_tracker.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.871389"
+    },
+    "AGENT/hooks/watch_agent_file.json": {
+      "hash": "a1c70d77c35e4c77931748a7f2e5943c",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/hooks/watch_agent_file.json"
+      ],
+      "installed_at": "2026-09-28T13:27:33.871891"
+    },
+    "AGENT/hooks/watch_agent_file.py": {
+      "hash": "7c08e4429c8d1904fbf7d909e72d3b62",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/hooks/watch_agent_file.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.877096"
+    },
+    "AGENT/knowledge-base/README.md": {
+      "hash": "ee1ca5a2091b6a9dfa33a329a242fa24",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/README.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.877774"
+    },
+    "AGENT/memories_agent/migration-note.md": {
+      "hash": "aca3c94d4375bee418fe1211549a2bd3",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/migration-note.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.878334"
+    },
+    "AGENT/memories_agent/README.md": {
+      "hash": "c6c043ea10d7a2315b38fca86c0ef56f",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/README.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.878783"
+    },
+    "AGENT/memories_agent/symlink-migration-plan.md": {
+      "hash": "b2c66c646f8480a9c5ed1aa860914318",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/symlink-migration-plan.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.889427"
+    },
+    "AGENT/plugin/anti-loop.js": {
+      "hash": "85632d74e03802b2cd15c53d5495b07a",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/plugin/anti-loop.js"
+      ],
+      "installed_at": "2026-09-28T13:27:33.890007"
+    },
+    "AGENT/plugin/startup.js": {
+      "hash": "ad83a093734072f1f28a6fbfea8fc536",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/plugin/startup.js"
+      ],
+      "installed_at": "2026-09-28T13:27:33.890462"
+    },
+    "AGENT/scripts/agent_startup.py": {
+      "hash": "8fc364a4b6b3363f0afc059f81615881",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/agent_startup.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.890915"
+    },
+    "AGENT/scripts/anti_loop.py": {
+      "hash": "d9f5daf2fabfae0d663cd35991ab7443",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/anti_loop.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.891307"
+    },
+    "AGENT/scripts/check-ai-co-authors.sh": {
+      "hash": "e4fd32d83522d4eb164bf0d0575c35da",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/check-ai-co-authors.sh"
+      ],
+      "installed_at": "2026-09-28T13:27:33.891700"
+    },
+    "AGENT/scripts/check-syntax.ps1": {
+      "hash": "294492bec6f848cb0b8e4c4d35ed3a31",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/check-syntax.ps1"
+      ],
+      "installed_at": "2026-09-28T13:27:33.897004"
+    },
+    "AGENT/scripts/generate-agent-catalog.py": {
+      "hash": "6b3ae19220e154150f1c677e166f2289",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/generate-agent-catalog.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.911725"
+    },
+    "AGENT/scripts/rename_memories.py": {
+      "hash": "2130c662f4288df50ab1035a1c599bf6",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/rename_memories.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.915637"
+    },
+    "AGENT/scripts/start-supervisor.bat": {
+      "hash": "3c020ebd0d6382f831c311d8040dc5b3",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/start-supervisor.bat"
+      ],
+      "installed_at": "2026-09-28T13:27:33.921291"
+    },
+    "AGENT/scripts/startup_all.py": {
+      "hash": "d0a260a676565ff89a20707ad836ac30",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/startup_all.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.926982"
+    },
+    "AGENT/scripts/str.translate.py": {
+      "hash": "3f35cc924d98a6550ad8f51c799708d5",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/str.translate.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.927744"
+    },
+    "AGENT/scripts/test-vercel-error.ps1": {
+      "hash": "8790a18776bab8a1c9da7ec9125c8aca",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/test-vercel-error.ps1"
+      ],
+      "installed_at": "2026-09-28T13:27:33.938384"
+    },
+    "AGENT/scripts/vercel-supervisor.ps1": {
+      "hash": "afcae4f42c7641f61f48ac49ae19905e",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/vercel-supervisor.ps1"
+      ],
+      "installed_at": "2026-09-28T13:27:33.951442"
+    },
+    "AGENT/scripts/vercel_error_tracker.py": {
+      "hash": "8464204977c2f87d32f06021eb94f8c0",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/vercel_error_tracker.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.957255"
+    },
+    "AGENT/scripts/watch_agent_file.py": {
+      "hash": "7c08e4429c8d1904fbf7d909e72d3b62",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/scripts/watch_agent_file.py"
+      ],
+      "installed_at": "2026-09-28T13:27:33.962493"
+    },
+    "AGENT/templates/stub_agents.md": {
+      "hash": "e6fa2f0d3abd3f106cd1bb6805189d3c",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/templates/stub_agents.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.963387"
+    },
+    "AGENT/skills/auto-restart-stream/PLAN-vercel-supervisor.md": {
+      "hash": "c840045b2d2c6f9b1e38a19f8c130e7e",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/skills/auto-restart-stream/PLAN-vercel-supervisor.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.963969"
+    },
+    "AGENT/skills/auto-restart-stream/SKILL.md": {
+      "hash": "13b6d44b647bd759da5c769e3a9b73c3",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/skills/auto-restart-stream/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.967797"
+    },
+    "AGENT/skills/context-management/SKILL.md": {
+      "hash": "1cd1f1952dd4208b4a4f6e8ea534fc2f",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/skills/context-management/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.983786"
+    },
+    "AGENT/skills/errors/SKILL.md": {
+      "hash": "bf734ffd03effa7a417543684cc7d1f1",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/skills/errors/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.987557"
+    },
+    "AGENT/skills/information-search/SKILL.md": {
+      "hash": "89b8f223778d540db77aaa5161b9b842",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/skills/information-search/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.988135"
+    },
+    "AGENT/skills/localization-qa/SKILL.md": {
+      "hash": "765958cb0f277c5e46a40a7939e82610",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/skills/localization-qa/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.988803"
+    },
+    "AGENT/skills/safe-edit/SKILL.md": {
+      "hash": "01b459b6d30cb97fbcd768cd380d7ccd",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/skills/safe-edit/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.989262"
+    },
+    "AGENT/skills/session-history/SKILL.md": {
+      "hash": "12d4708094af2cc268b1d36fcfd20bc2",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/skills/session-history/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.992782"
+    },
+    "AGENT/skills/small-steps/SKILL.md": {
+      "hash": "dba6943852654100c3b65fc15d53f3dc",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/skills/small-steps/SKILL.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.993269"
+    },
+    "AGENT/memories_agent/actions/action-log_2025-12-24.md": {
+      "hash": "d37c772ed8ed1bbf7b304dcc2eb32491",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2025-12-24.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.993947"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-08-12.md": {
+      "hash": "293f0f6e3df4e34d4911c9bf30a89c5a",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-08-12.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.994354"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-08-14.md": {
+      "hash": "305020438b2123325c023e9456ff4422",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-08-14.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.994753"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-08-18.md": {
+      "hash": "50682f965367be6a91274c1a96122f1d",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-08-18.md"
+      ],
+      "installed_at": "2026-09-28T13:27:33.995139"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-08-20.md": {
+      "hash": "784a436e590c37de6b7f179b91156a1d",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-08-20.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.011856"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-08-22.md": {
+      "hash": "d395078ec6a2b1aa4c4bd50a7271ca5a",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-08-22.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.019341"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-08-26.md": {
+      "hash": "c769e56be92b8cb42cb3fd369f456261",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-08-26.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.020001"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-08-28.md": {
+      "hash": "d63786948dd7ce58d29d7f777b05b315",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-08-28.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.023465"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-08-29.md": {
+      "hash": "68f48332b0a959e4a635fcaf34a55c7e",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-08-29.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.023990"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-08-30.md": {
+      "hash": "e3801618636d0310fcc90ca5f4fd5fe1",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-08-30.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.024436"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-08-31.md": {
+      "hash": "73c931998cc61bad7626852789113a14",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-08-31.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.027402"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-09-02.md": {
+      "hash": "a590d360aa48cc6788fe130d7ec78d8c",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-09-02.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.030676"
+    },
+    "AGENT/memories_agent/actions/action-log_2026-09-28.md": {
+      "hash": "10960f7376b3de90fc59a35e25922a47",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/actions/action-log_2026-09-28.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.033694"
+    },
+    "AGENT/memories_agent/config-changes/changes_log.md": {
+      "hash": "11c63c7220170dca1148f6e642b23053",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/config-changes/changes_log.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.039459"
+    },
+    "AGENT/memories_agent/cross-reference/external-links.md": {
+      "hash": "170c4c9fc8bd01f3a3a147cb0f5848a5",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/cross-reference/external-links.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.045042"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-13.md": {
+      "hash": "f8267f6c265b8b11ca8e51b333f340fd",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-13.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.049379"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-14.md": {
+      "hash": "f0336bb510f9cb61d60aa53efe995536",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-14.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.049881"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-18.md": {
+      "hash": "2bef69a43886d8ea687a03914e69f18b",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-18.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.050353"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-19.md": {
+      "hash": "8069ecc48955f69c6fe9592e03f69eb3",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-19.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.053220"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-20.md": {
+      "hash": "1f0fb087a10e5b9b99951d918960e818",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-20.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.053679"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-21.md": {
+      "hash": "d13dadc58bdf8a15d814a19bc4699771",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-21.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.054094"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-22.md": {
+      "hash": "4e39722fcafff8d6888a0e5883d81087",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-22.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.054527"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-26.md": {
+      "hash": "0c1ed79884233e07eaa17192bf050443",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-26.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.057479"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-28.md": {
+      "hash": "60adf9ca2c82c532dbbfb31021c8bbb3",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-28.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.057976"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-29.md": {
+      "hash": "a7aaf6401c2a2e63f06e0df756a07e1e",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-29.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.058417"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-08-31.md": {
+      "hash": "9d6527e9167b7d5b7dd43f8fa2fedb67",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-08-31.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.058863"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-09-04.md": {
+      "hash": "f28f364a185ecd4edd237f7c2efd2e12",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-09-04.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.059324"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-09-09.md": {
+      "hash": "47593471a1e29f8dee69bec056217252",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-09-09.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.059741"
+    },
+    "AGENT/memories_agent/errors/error-log_2026-09-28.md": {
+      "hash": "9bd9b86e5f817c2ead382b0875e77ace",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/errors/error-log_2026-09-28.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.076522"
+    },
+    "AGENT/memories_agent/logs/vercel-supervisor/last_context_214040.txt": {
+      "hash": "b4e4be478aa03bd7fa7b0a4c85395fde",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/logs/vercel-supervisor/last_context_214040.txt"
+      ],
+      "installed_at": "2026-09-28T13:27:34.081707"
+    },
+    "AGENT/memories_agent/logs/vercel-supervisor/last_context_214100.txt": {
+      "hash": "b4e4be478aa03bd7fa7b0a4c85395fde",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/logs/vercel-supervisor/last_context_214100.txt"
+      ],
+      "installed_at": "2026-09-28T13:27:34.082310"
+    },
+    "AGENT/memories_agent/logs/vercel-supervisor/last_context_223908.txt": {
+      "hash": "fd17769d0244a1183e9e7b0a54e2ecf6",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/logs/vercel-supervisor/last_context_223908.txt"
+      ],
+      "installed_at": "2026-09-28T13:27:34.088063"
+    },
+    "AGENT/memories_agent/logs/vercel-supervisor/last_context_224229.txt": {
+      "hash": "fd17769d0244a1183e9e7b0a54e2ecf6",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/memories_agent/logs/vercel-supervisor/last_context_224229.txt"
+      ],
+      "installed_at": "2026-09-28T13:27:34.088737"
+    },
+    "AGENT/knowledge-base/api-connect/MCP-сервери підключаються через JSON-конфіг агента.md": {
+      "hash": "a0c7397cc3267fc32ab9296ea4643cee",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/api-connect/MCP-сервери підключаються через JSON-конфіг агента.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.089401"
+    },
+    "AGENT/knowledge-base/api-connect/стек Cline, GitHub Copilot і LM Studio Code.md": {
+      "hash": "39220be743c75dbbe47ad4412af67d93",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/api-connect/стек Cline, GitHub Copilot і LM Studio Code.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.089866"
+    },
+    "AGENT/knowledge-base/Development trends/список зі спадаючих зростаючих трендів.md": {
+      "hash": "52a6822e4ddb3ec61b180c8dab65349e",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/Development trends/список зі спадаючих зростаючих трендів.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.090341"
+    },
+    "AGENT/knowledge-base/Development trends/Що втрачає або втратило підтримку загальні тренди.md": {
+      "hash": "d5d1ca398052adacc34f46dc278bdfcd",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/Development trends/Що втрачає або втратило підтримку загальні тренди.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.090764"
+    },
+    "AGENT/knowledge-base/Development-trends/список зі спадаючих зростаючих трендів.md": {
+      "hash": "52a6822e4ddb3ec61b180c8dab65349e",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/Development-trends/список зі спадаючих зростаючих трендів.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.091299"
+    },
+    "AGENT/knowledge-base/Development-trends/Що втрачає або втратило підтримку загальні тренди.md": {
+      "hash": "d5d1ca398052adacc34f46dc278bdfcd",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/Development-trends/Що втрачає або втратило підтримку загальні тренди.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.091704"
+    },
+    "AGENT/knowledge-base/history-check/BUG-001_sync-agent_manifest-comment-stripping_corrupts_url-strings.md": {
+      "hash": "67d2924fe7ae7c90707685ca5a8b1119",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/history-check/BUG-001_sync-agent_manifest-comment-stripping_corrupts_url-strings.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.095197"
+    },
+    "AGENT/knowledge-base/history-check/BUG-agent-lock.md": {
+      "hash": "1616e917a467efb060c0ce653699d158",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/history-check/BUG-agent-lock.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.095721"
+    },
+    "AGENT/knowledge-base/history-check/BUG-install-discrepancies.md": {
+      "hash": "44761d7e479e48cbeca95fb2bffd1d9b",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/history-check/BUG-install-discrepancies.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.099109"
+    },
+    "AGENT/knowledge-base/history-check/BUG-vercel-ai-gateway.md": {
+      "hash": "01231106987cfdef72794ded77e0ee21",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/history-check/BUG-vercel-ai-gateway.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.116221"
+    },
+    "AGENT/knowledge-base/history-check/PLAN-backup-rename-executed.md": {
+      "hash": "7e10d2f57025089df76584723ab938a2",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/history-check/PLAN-backup-rename-executed.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.120151"
+    },
+    "AGENT/knowledge-base/history-check/reinstall_log.md": {
+      "hash": "1a1fe6d291fb2ac64572bda9e5c3f11e",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/history-check/reinstall_log.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.120686"
+    },
+    "AGENT/knowledge-base/history-check/symlink-migration-plan.md": {
+      "hash": "f792cf14be169d05335394e30b7bc83e",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/history-check/symlink-migration-plan.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.123710"
+    },
+    "AGENT/knowledge-base/plans-for-future/PLAN_розділення_файлів_проєкту_та_Агента.md": {
+      "hash": "1e3e66b0a1a02c48324dfed06ad1a0bd",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/plans-for-future/PLAN_розділення_файлів_проєкту_та_Агента.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.124271"
+    },
+    "AGENT/knowledge-base/solutions/anti-loop-config.md": {
+      "hash": "dc53be8ac3acac741264ca3b57a841e5",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/solutions/anti-loop-config.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.124807"
+    },
+    "AGENT/knowledge-base/solutions/anti-loop-mechanical-cycles.md": {
+      "hash": "4b13935caac50e32c02bbcab8f4cd4f9",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/solutions/anti-loop-mechanical-cycles.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.125312"
+    },
+    "AGENT/knowledge-base/solutions/bug-001-sync-agent-comment-stripping-corrupts-urls.md": {
+      "hash": "c3c547b098ccfebdd292710eb28800fa",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/solutions/bug-001-sync-agent-comment-stripping-corrupts-urls.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.128644"
+    },
+    "AGENT/knowledge-base/solutions/clinerules-init-gate-cline.md": {
+      "hash": "e46098e2f63e00e2f763c7fdcd281029",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/solutions/clinerules-init-gate-cline.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.129100"
+    },
+    "AGENT/knowledge-base/solutions/manager-locale-js-loading.md": {
+      "hash": "c7374bb54338d0a4c9333e2c9259d289",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/solutions/manager-locale-js-loading.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.129520"
+    },
+    "AGENT/knowledge-base/solutions/vhs-locale-always-uk.md": {
+      "hash": "4acfa53e7bcd5e4afd0052f386cb54ab",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/solutions/vhs-locale-always-uk.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.129918"
+    },
+    "AGENT/knowledge-base/standards/git-guidelines.md": {
+      "hash": "74fd3295b1c865578ee9839779f506ff",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/standards/git-guidelines.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.130346"
+    },
+    "AGENT/knowledge-base/standards/markdown-style-guide.md": {
+      "hash": "f795d1d9e6c7ce1eb2f2a516d4820133",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/standards/markdown-style-guide.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.134382"
+    },
+    "AGENT/knowledge-base/plans-for-future/План оформлення Comfy-smart-lady як Package Manager пакету/01. План оформлення Comfy-smart-lady як Package Manager пакету.md": {
+      "hash": "e00f0e2e4316c2b7e2e63261c08e6bb9",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/plans-for-future/План оформлення Comfy-smart-lady як Package Manager пакету/01. План оформлення Comfy-smart-lady як Package Manager пакету.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.138992"
+    },
+    "AGENT/knowledge-base/plans-for-future/План оформлення Comfy-smart-lady як Package Manager пакету/02. План міграції sync-agent.py у PyPI-пакет comfy-smart-lady.md": {
+      "hash": "9bf81eac5fe0285e4504d80fa421eab1",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/plans-for-future/План оформлення Comfy-smart-lady як Package Manager пакету/02. План міграції sync-agent.py у PyPI-пакет comfy-smart-lady.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.143750"
+    },
+    "AGENT/knowledge-base/plans-for-future/План оформлення Comfy-smart-lady як Package Manager пакету/03. Готовий каркас файлів.md": {
+      "hash": "4b48d71094476879852d4b1727abfe2a",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/plans-for-future/План оформлення Comfy-smart-lady як Package Manager пакету/03. Готовий каркас файлів.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.144276"
+    },
+    "AGENT/knowledge-base/plans-for-future/План оформлення Comfy-smart-lady як Package Manager пакету/04. Як виглядає правильний зворотний зв’язок.md": {
+      "hash": "4cbf25af3d69eb2c086de31251ff5152",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/plans-for-future/План оформлення Comfy-smart-lady як Package Manager пакету/04. Як виглядає правильний зворотний зв’язок.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.144803"
+    },
+    "AGENT/knowledge-base/plans-for-future/План оформлення Comfy-smart-lady як Package Manager пакету/05. Як це виглядатиме на практиці в репозиторії.md": {
+      "hash": "03b32c75c5ca52728f4ba8eefd784b04",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/plans-for-future/План оформлення Comfy-smart-lady як Package Manager пакету/05. Як це виглядатиме на практиці в репозиторії.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.145261"
+    },
+    "AGENT/knowledge-base/history-check/План agent-lock.json — розділення файлів/06. План agent-lock.json — розділення файлів.md": {
+      "hash": "dd20a51e324d945d8cdb35472fb85e1e",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/history-check/План agent-lock.json — розділення файлів/06. План agent-lock.json — розділення файлів.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.145780"
+    },
+    "AGENT/knowledge-base/history-check/План agent-lock.json — розділення файлів/06.1 детальний План agent-lock.json — розділення файлів.md": {
+      "hash": "212a4a2799586469158446cc51314f3c",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/knowledge-base/history-check/План agent-lock.json — розділення файлів/06.1 детальний План agent-lock.json — розділення файлів.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.149811"
+    },
+    "AGENT/chats/cline/README.md": {
+      "hash": "4f7810d1acf5d57bc3aed83b357aed93",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/chats/cline/README.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.150558"
+    },
+    "AGENT/chats/continue/README.md": {
+      "hash": "a4aa2c89ac1f59789de9e25e99128fe1",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/chats/continue/README.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.151048"
+    },
+    "AGENT/chats/github-copilot/README.md": {
+      "hash": "c93b496e6aa4c41dfd2c197691428945",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/chats/github-copilot/README.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.163901"
+    },
+    "AGENT/chats/opencode/config-reference.md": {
+      "hash": "c004914ad7694553c5a8e31742dbb626",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/chats/opencode/config-reference.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.167845"
+    },
+    "AGENT/chats/opencode/config-schema.json": {
+      "hash": "91d80e39bf6db4a7b996ad91a22e3472",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/chats/opencode/config-schema.json"
+      ],
+      "installed_at": "2026-09-28T13:27:34.172348"
+    },
+    "AGENT/chats/opencode/README.md": {
+      "hash": "8029ccf00dbb187e1c470c0558db1319",
+      "action": "copy_full",
+      "targets": [
+        "AGENT/chats/opencode/README.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.173007"
+    },
+    ".opencode/agents/Comfy-smart-lady.md": {
+      "hash": "32d9fd9b6e2b7e1b4c399287f17eb059",
+      "action": "stub",
+      "targets": [
+        ".opencode/agents/Comfy-smart-lady.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.173832"
+    },
+    ".clinerules/agent-startup.md": {
+      "hash": "32d9fd9b6e2b7e1b4c399287f17eb059",
+      "action": "stub",
+      "targets": [
+        ".clinerules/agent-startup.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.174128"
+    },
+    ".clinerules/agents/Comfy-smart-lady.md": {
+      "hash": "32d9fd9b6e2b7e1b4c399287f17eb059",
+      "action": "stub",
+      "targets": [
+        ".clinerules/agents/Comfy-smart-lady.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.174736"
+    },
+    ".github/agents/Comfy-smart-lady.md": {
+      "hash": "32d9fd9b6e2b7e1b4c399287f17eb059",
+      "action": "stub",
+      "targets": [
+        ".github/agents/Comfy-smart-lady.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.174970"
+    },
+    ".continue/agents/Comfy-smart-lady.md": {
+      "hash": "32d9fd9b6e2b7e1b4c399287f17eb059",
+      "action": "stub",
+      "targets": [
+        ".continue/agents/Comfy-smart-lady.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.175500"
+    },
+    ".agent/instructions.md": {
+      "hash": "32d9fd9b6e2b7e1b4c399287f17eb059",
+      "action": "stub",
+      "targets": [
+        ".agent/instructions.md"
+      ],
+      "installed_at": "2026-09-28T13:27:34.176019"
+    }
+  }
+}

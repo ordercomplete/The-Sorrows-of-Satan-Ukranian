@@ -1,36 +1,41 @@
 # ============================================
-# AGENT FILES — не завантажувати на GitHub
+# The-Sorrows-of-Satan-Ukranian — кореневий .gitignore хоста
+# Межа: додаток живе в Project_files/, агент — в корені (володіє manifest 1.4.9)
 # ============================================
 
-# Opencode конфігурація
-opencode.json
-.opencode/
-
-# Agent infrastructure
-.github/
-.clinerules/
-
-# VS Code
-.vscode/
-
-# Python віртуальні середовища
-.venv/
-.venv.*
+# --- Агент: runtime-стан, сміття, локальні кеші (не трекати) ---
+agent_config/backup-chat/
+agent_config/backup-agent/
+AGENT/state/
+AGENT/trash/
+trash/2026-*
+*.log
 __pycache__/
 *.pyc
+*.pyo
 
-# Agent memories & logs
+# --- Середовища та IDE-сміття ---
+.venv/
+.venv.*/
+.vs/
+.vscode/
+node_modules/
+.opencode/node_modules/
+
+# --- Пам'ять: проєктна трекається всередині Project_files/, агентська — ні ---
 memories/
+AGENT/memories_agent/session/
+AGENT/memories_agent/logs/
 
-# Temp скрипти
+# --- Тимчасове ---
 temp/
+Project_files/temp/
+Project_files/__pycache__/
+Project_files/**/*.pyc
 
 # ============================================
-# PROJECT FILES — завантажувати на GitHub
+# PROJECT FILES — трекається в цьому репо
 # ============================================
-# input/       — вхідні зображення
-# output/      — результати OCR та перекладу
-# Text-origin/ — джерельні тексти
-# src/         — скрипти обробки
-# docs/        — документація
-# *.md (root)  — плани та інструкції
+# Project_files/ — додаток: переклад Гутенберга, сценарій, OCR-архів
+# .github/, .clinerules/, .opencode/, .continue/, .agent/ — адаптери агента (трекати: без них чати не стартують)
+# AGENT/, agent_config/, opencode.json, agent-lock.json, trash/.gitignore, trash/deletion_log.md — ядро агента v1.4.9 (vendoring)
