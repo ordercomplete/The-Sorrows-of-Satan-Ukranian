@@ -14,6 +14,17 @@ __pycache__/
 *.pyc
 *.pyo
 
+# --- Агентські адаптери та конфіги (ЯВНО виключено з репозиторію) ---
+.agent/
+.clinerules/
+.continue/
+.opencode/
+AGENT/
+agent_config/
+opencode.json
+agent-lock.json
+trash/
+
 # --- Середовища та IDE-сміття ---
 .venv/
 .venv.*/
