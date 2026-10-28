@@ -2,7 +2,7 @@
 
 ## Три призначення
 
-1. **Основне — переклад.** Оригінал для перекладу: `Text-origin/The Sorrows of Satan, by Marie Corelli—A Project Gutenberg eBook.pdf`, розбивка `Text-origin/chapters/chapter_*.txt` (38 глав, ~947 000 символів). Готово: глави I–VII в `output/translated/chapter_*_ukr.md`. Черга: VIII–XLII за `docs/book_structure.md`. Шаблон глави: `docs/translation_template.md`.
+1. **Основне — переклад.** Оригінал для перекладу: `Text-origin/The Sorrows of Satan, by Marie Corelli—A Project Gutenberg eBook.pdf`, розбивка `Text-origin/chapters/chapter_*.txt` (38 глав, ~947 000 символів). Готово: глави I–VIII в `output/translated/chapter_*_ukr.md`. Черга: IX–XLII за `docs/book_structure.md`. Шаблон глави: `docs/translation_template.md`.
 2. **Друге — сценарій фільму.** Папка `screenplay/` (синопсис, персонажі, сцени по главах). Статус: заготовка, перший крок — синопсис і персонажі по главах I–VII.
 3. **Додаткове — рукописний OCR.** Всі матеріали OCR (скрипти, архів, фото, результати розпізнавання, інструкції) перенесені в папку `OCR-writen-text/`. Еталон — прямий AI-reading. EasyOCR/TROCR зафіксовано як непрацюючі.
 
